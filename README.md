@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/London,_UK-003E74?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://www.linkedin.com/in/abdub-guracha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abduba.golicha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -23,7 +22,7 @@
 - 🏅 **Royal Academy of Engineering Mission 44 Scholar**, one of 12 awarded
 - 🔬 **Interests**: computational aerodynamics, numerical methods, and machine learning for physics simulation. Most of my work sits on the trade-off between simulation accuracy and compute cost
 - 🏎️ **Long-term goal**: computational aerodynamics in motorsport
-- 🏃 **Off the keyboard**: training for the Manchester Marathon 2027 for Cancer Research UK
+- 🏃 **Off the keyboard**: training for the Manchester Marathon 2027
 
 ---
 
