@@ -21,7 +21,6 @@
 - ✈️ **BEng Aerospace Engineering (First Class)** from The University of Manchester, with a placement year at United Utilities
 - 🏅 **Royal Academy of Engineering Mission 44 Scholar**, one of 12 awarded
 - 🔬 **Interests**: computational aerodynamics, numerical methods, and machine learning for physics simulation. Most of my work sits on the trade-off between simulation accuracy and compute cost
-- 🏎️ **Long-term goal**: computational aerodynamics in motorsport
 - 🏃 **Off the keyboard**: training for the Manchester Marathon 2027
 
 ---
